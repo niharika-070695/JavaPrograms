@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java8StreamsExample-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/Java8StreamsExample/build/libs</output-path>
+    <root id="archive" name="Java8StreamsExample-jvm-1.0-SNAPSHOT.jar" />
+  </artifact>
+</component>
